@@ -15,7 +15,17 @@ The ContentView struct defines the user interface:
 Displays the current player and game board.
 Uses buttons for each cell on the board to allow players to make moves.
 Shows the winner when one is detected.
-Usage
+
+#Usage :
 Launch the app on your simulator or device.
 Players will take turns tapping on empty cells to place their symbols.
 The game will announce a winner when one player successfully places three symbols in a row, either horizontally, vertically, or diagonally.
+
+
+#Technologies Used :
+
+Language: Swift
+Framework: SwiftUI
+IDE: Xcode
+
+#App_Interface
