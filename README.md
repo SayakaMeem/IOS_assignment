@@ -32,6 +32,7 @@ IDE: Xcode
 
 App_Images
 ![photo_2024-11-21_16-46-33](https://github.com/user-attachments/assets/854bc573-b72b-4eb5-8ff6-87db35c1b218)
+![photo_2024-11-21_16-48-51](https://github.com/user-attachments/assets/e957dc3b-bc34-48f8-a6ab-097faa1b4724)
 
 
 
