@@ -27,7 +27,12 @@ The game will announce a winner when one player successfully places three symbol
 Language: Swift
 Framework: SwiftUI
 IDE: Xcode
-
-#App_Interface
 ![photo_2024-11-21_16-46-33](https://github.com/user-attachments/assets/854bc573-b72b-4eb5-8ff6-87db35c1b218)
+
+
+
+
+
+
+
 
