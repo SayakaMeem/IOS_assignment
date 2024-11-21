@@ -39,6 +39,9 @@ App_Image 2
 App_Image 3
 ![photo_2024-11-21_16-49-45](https://github.com/user-attachments/assets/38a14b93-39a5-4e51-9a6a-1e5a891e4d7b)
 
+#How to run :
+clone the repository : https://github.com/SayakaMeem/IOS_assignment.git
+
 
 
 
